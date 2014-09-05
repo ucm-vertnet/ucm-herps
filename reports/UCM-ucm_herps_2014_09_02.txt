@@ -1,0 +1,208 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 570
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Egypt ; Times: 1
+	Country: Israel ; Times: 8
+	Country: Mexico ; Times: 26
+	Country: Thailand ; Times: 2
+	Country: United States ; Times: 60
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-02 ; Times: 3
+	Date: 2014-08-03 ; Times: 4
+	Date: 2014-08-04 ; Times: 3
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-06 ; Times: 3
+	Date: 2014-08-07 ; Times: 2
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-11 ; Times: 3
+	Date: 2014-08-12 ; Times: 15
+	Date: 2014-08-13 ; Times: 8
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-15 ; Times: 2
+	Date: 2014-08-16 ; Times: 5
+	Date: 2014-08-17 ; Times: 1
+	Date: 2014-08-19 ; Times: 9
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-24 ; Times: 3
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 13
+	Date: 2014-08-27 ; Times: 9
+	Date: 2014-08-28 ; Times: 7
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "morelia spilota" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "anolis barkeri" ; Times: 2
+	Query: "Crotalus scutulatus Texas Brewster" ; Times: 1
+	Query: "Micrurus" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Reptilia Texas Palo Pinto" ; Times: 2
+	Query: "Phrynosoma mcallii" ; Times: 2
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Blanus cinereus" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 1
+	Query: "Thamnophis proximus Texas Tarrant" ; Times: 1
+	Query: "Bufo boreas Michigan" ; Times: 1
+	Query: "Blanus tingitanus" ; Times: 1
+	Query: ""Scaphiopus couchii" stateprovince:"California"" ; Times: 1
+	Query: "class:reptilia catalognumber:28260" ; Times: 2
+	Query: "ucm 40877" ; Times: 1
+	Query: "Necturus New York" ; Times: 2
+	Query: "thamnophis eques arizona" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 5
+	Query: "rHINEURA" ; Times: 2
+	Query: "TCWC herps" ; Times: 4
+	Query: "python regius" ; Times: 1
+	Query: "Bullsnake" ; Times: 1
+	Query: "Coleonyx variegatus abbotti" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 4
+	Query: "sistrurus catenatus texas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "Leptodeira septentrionalis septentrionalis distance(location,geopoint(26.78484736105119,-98.50341796875))<227432" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 4
+	Query: "Crotalus atrox Arkansas" ; Times: 1
+	Query: "cuora type:specimen" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "TCWC herpetology" ; Times: 1
+	Query: "type:specimen country:"Angola" class:Reptilia" ; Times: 4
+	Query: "stateprovince:"New York" genus:Clemmys" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Barisia ciliaris" ; Times: 2
+	Query: "Chamaesaura miopropus" ; Times: 5
+	Query: "Leptodeira septentrionalis septentrionalis" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Rana neovolcanica" ; Times: 4
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Crotalus lepidus Mexico (Mexico) AND (New) mappable:1" ; Times: 1
+	Query: "Sceloporus albiventris" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 3
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<334425" ; Times: 1
+	Query: "recordedby:E.H. Taylor" ; Times: 2
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<289463" ; Times: 1
+	Query: "Eleutherodactylus coqui mappable:1" ; Times: 1
+	Query: "Bufo boreas Colorado" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "washington state amphibians" ; Times: 1
+	Query: "TCWC birds" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "display" ; Times: 1
+	Query: "Arizona elegans Texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 273 download events in this period)
+Total number of records downloaded: 51078 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 17700
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-02 ; Times: 2
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 12
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-08 ; Times: 5
+	Date: 2014-08-12 ; Times: 1
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-17 ; Times: 5
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-26 ; Times: 3
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coleonyx variegatus variegatus" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Sceloporus albiventris" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "petrosaurus thalassinus" ; Times: 2
+	Query: "Sceloporus" ; Times: 4
+	Query: "rHINEURA" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "amphisbaena" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<334425" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Gambelia sila" ; Times: 3
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "Ambystoma" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Acris gryllus" ; Times: 1
+	Query: "family:Chamaeleonidae class:reptilia" ; Times: 1
+	Query: "Bipes biporus" ; Times: 1
+	Query: "type:specimen country:"Angola" class:Reptilia" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "Baja California Norte mammals" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Eleutherodactylus coqui mappable:1" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "country:Kenya OR Tanzania class:Reptilia" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 2
+	Query: "Sceloporus torquatus" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 783
+Total number of records retrieved from searches: 7132
+Number of download events that retrieved data from the resource: 211
+Total number of records downloaded: 87951
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 783
+Total number of records retrieved from searches: 7132
+Number of download events that retrieved data from the resource: 211
+Total number of records downloaded: 87951
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
