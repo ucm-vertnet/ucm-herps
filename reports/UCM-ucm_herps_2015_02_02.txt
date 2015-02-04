@@ -1,0 +1,373 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 365
+Number of records retrieved in searches: 3261
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Greece ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 47
+	Country: Namibia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 261
+	Country: Unknown ; Times: 24
+	Country: Uruguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 15
+	Date: 2015-01-03 ; Times: 29
+	Date: 2015-01-05 ; Times: 9
+	Date: 2015-01-06 ; Times: 5
+	Date: 2015-01-07 ; Times: 19
+	Date: 2015-01-08 ; Times: 9
+	Date: 2015-01-09 ; Times: 11
+	Date: 2015-01-10 ; Times: 2
+	Date: 2015-01-11 ; Times: 12
+	Date: 2015-01-12 ; Times: 11
+	Date: 2015-01-13 ; Times: 10
+	Date: 2015-01-14 ; Times: 5
+	Date: 2015-01-15 ; Times: 16
+	Date: 2015-01-16 ; Times: 9
+	Date: 2015-01-17 ; Times: 10
+	Date: 2015-01-18 ; Times: 8
+	Date: 2015-01-19 ; Times: 6
+	Date: 2015-01-20 ; Times: 19
+	Date: 2015-01-21 ; Times: 14
+	Date: 2015-01-22 ; Times: 13
+	Date: 2015-01-23 ; Times: 17
+	Date: 2015-01-24 ; Times: 32
+	Date: 2015-01-25 ; Times: 16
+	Date: 2015-01-26 ; Times: 3
+	Date: 2015-01-27 ; Times: 5
+	Date: 2015-01-28 ; Times: 6
+	Date: 2015-01-29 ; Times: 15
+	Date: 2015-01-30 ; Times: 14
+	Date: 2015-01-31 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Pleurodema" ; Times: 4
+	Query: "Scincella gemmingeri oaxaca" ; Times: 1
+	Query: "Ophryacus" ; Times: 1
+	Query: "lampropeltis alterna texas" ; Times: 1
+	Query: "tequila" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 8
+	Query: "clemmys guttata" ; Times: 1
+	Query: "Bombina bombina" ; Times: 2
+	Query: "apalone mutica" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"Oklahoma" class:amphibia" ; Times: 1
+	Query: "porthidium quintana roo" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 2
+	Query: "county:"Mohave" stateprovince:"Arizona" specificepithet:variegatus genus:Coleonyx" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 2
+	Query: "trimorphodon tau" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "alligator mississippiensis georgia" ; Times: 1
+	Query: "UCM Cnemidophorus scalaris" ; Times: 2
+	Query: "hynobius nebulosus" ; Times: 1
+	Query: "lampropeltis jalisco" ; Times: 4
+	Query: "corytophanes percarinatus" ; Times: 1
+	Query: "chelydra minnesota" ; Times: 1
+	Query: "kansas university museum of natural history" ; Times: 1
+	Query: "sceloporus smithi" ; Times: 3
+	Query: "Onychodactylus japonicus" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Patagonia class:reptilia" ; Times: 1
+	Query: "Lygosoma" ; Times: 1
+	Query: "miotympanum (hylidae) AND (NOT KU NOT UTA)" ; Times: 1
+	Query: "anolis sericeus oaxaca" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Amphibia" ; Times: 9
+	Query: "rhinophrynus dorsalis and texas" ; Times: 1
+	Query: "stateprovince:"Connecticut" specificepithet:catesbeiana genus:Rana class:Amphibia year >= 1900 year <= 1970" ; Times: 1
+	Query: "Chapala ranidae stateprovince:"Jalisco"" ; Times: 1
+	Query: "scaphiodontophis zeteki" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "sonora semiannulata california" ; Times: 2
+	Query: "mystacina" ; Times: 1
+	Query: "sceloporus horridus oaxaca" ; Times: 1
+	Query: "WED 53045" ; Times: 1
+	Query: "Pseudoeurycea sp." ; Times: 1
+	Query: "pristimantis" ; Times: 1
+	Query: "Sentinel" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:miliarius genus:sistrurus" ; Times: 1
+	Query: "genus:Iguana iguana" ; Times: 1
+	Query: "Coleonyx nemoralis" ; Times: 6
+	Query: "Crotalus year >= 1905 year <= 1907" ; Times: 1
+	Query: "sistrurus catenatus tergeminus" ; Times: 1
+	Query: "Tretanorhinus country:"Mexico"" ; Times: 1
+	Query: "Aspidoscelis uniparens" ; Times: 1
+	Query: "Sceloporus cyanogenys" ; Times: 10
+	Query: "abronia" ; Times: 2
+	Query: "Xenosaurus grandis Oaxaca" ; Times: 2
+	Query: "bothrops alternatus" ; Times: 1
+	Query: "UCM 21041" ; Times: 1
+	Query: "UCM aSPIDOSCELIS SCALARIS" ; Times: 3
+	Query: "genus:Maticora" ; Times: 1
+	Query: "Elaphe bairdi" ; Times: 1
+	Query: "crotalus santa catalina" ; Times: 1
+	Query: "rhineura floridana" ; Times: 2
+	Query: "stateprovince:"new mexico" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "xenosaurus oaxaca" ; Times: 1
+	Query: "leptodeira oaxaca" ; Times: 5
+	Query: "lampropeltis alterna" ; Times: 4
+	Query: "Peromyscus institutioncode:UCM" ; Times: 1
+	Query: "psammobates" ; Times: 1
+	Query: "Thamnophis melanogaster melanogaster" ; Times: 1
+	Query: "sitana" ; Times: 2
+	Query: "stateprovince:"-Florida" genus:Osteopilus" ; Times: 1
+	Query: "crotalus catalina island" ; Times: 1
+	Query: "sistrurus catenatus edwardsii" ; Times: 1
+	Query: "Thamnophis radix Nebraska type:specimen" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 2
+	Query: "anolis cristatellus" ; Times: 2
+	Query: "mixomaculata" ; Times: 3
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 2
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "enhydrina schistosa" ; Times: 1
+	Query: "hemidactylus turcicus mexico" ; Times: 1
+	Query: "phrynosoma santa Fe county" ; Times: 1
+	Query: "Boa" ; Times: 1
+	Query: "sonora semiannulata (california) AND (NOT Texas NOT Nevada NOT Arizona NOT Oklahoma)" ; Times: 1
+	Query: "genus:Micrurus specificepithet:ephippifer country:Mexico" ; Times: 1
+	Query: "mixomaculata institutioncode:ucm (hylidae)" ; Times: 1
+	Query: "crotalus atrox oaxaca" ; Times: 1
+	Query: "Sonora semiannulata stateprovince:"California"" ; Times: 1
+	Query: "anolis uniformis" ; Times: 1
+	Query: "stateprovince:"chiapas" genus:tantilla" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "nubicola" ; Times: 2
+	Query: "sceloporus spinosus oaxaca" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "mixomaculata (hylidae)" ; Times: 1
+	Query: "crotalus ruber san diego" ; Times: 1
+	Query: "crocodylus" ; Times: 2
+	Query: "Siren intermedia" ; Times: 1
+	Query: "natrix" ; Times: 2
+	Query: "Nerodia rhombifer" ; Times: 3
+	Query: "alligator mississippiensis arkansas" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Sceloporus cowlesi" ; Times: 1
+	Query: "Tribolonotus novaeguineae" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 1
+	Query: "Crotalus Adamanteus county:"Hillsborough" stateprovince:"Florida"" ; Times: 1
+	Query: "anolis petersii" ; Times: 1
+	Query: "Rhinophrynus dorsalis united states" ; Times: 1
+	Query: "oxybelis aeneus type:specimen" ; Times: 1
+	Query: "stateprovince:"Illinois" class:reptilia institutioncode:ucm" ; Times: 2
+	Query: "ambystoma texanum" ; Times: 4
+	Query: "mink" ; Times: 2
+	Query: "lepidodactylus magnus" ; Times: 1
+	Query: "UCM 52640" ; Times: 2
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "godmani (hylidae)" ; Times: 1
+	Query: "bufo woodhousei" ; Times: 1
+	Query: "Xantusia vigilis Baja California Sur" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "stateprovince:"Nevada" specificepithet:variegatus genus:Coleonyx" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 30
+	Query: "chelonia mydas agassizi" ; Times: 1
+	Query: "Sceloporus jarrovii sonora" ; Times: 2
+	Query: "patzcuaro ranidae stateprovince:"Michoacan"" ; Times: 2
+	Query: "alvarius" ; Times: 1
+	Query: "salamandra country:"germany"" ; Times: 1
+	Query: "alvarezi" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "salvadora oaxaca" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:cyanogenys genus:Sceloporus" ; Times: 3
+	Query: "bufo alvarius" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 4
+	Query: "specificepithet:cerberus genus:crotalus" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 1
+	Query: "UCM 20098" ; Times: 1
+	Query: "stateprovince:"chiapas" genus:geophis" ; Times: 1
+	Query: "phrynosoma cornutum AND (NOT Texas NOT Mexico)" ; Times: 4
+	Query: "Rhinophrynus dorsalis texas" ; Times: 1
+	Query: "smilisca baudini" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "sceloporus woodi" ; Times: 2
+	Query: "rhinophrynus dorsalis and texas stateprovince:"texas"" ; Times: 1
+	Query: "rhinophrynus dorsalis stateprovince:"texas"" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 2
+	Query: "Sceloporus siniferus mitla" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 3
+	Query: "leptodactylus fragilis" ; Times: 1
+	Query: "Sistrurus Arizona" ; Times: 9
+	Query: "(west palm beach)" ; Times: 1
+	Query: "Aru Islands (Reptilia)" ; Times: 1
+	Query: "lampropeltis oaxaca" ; Times: 1
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "Sceloporus jarrovii Sonora" ; Times: 4
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "county:"clark" stateprovince:"Nevada" specificepithet:variegatus genus:Coleonyx" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 2
+	Query: "rhabdophis subminiatus" ; Times: 1
+	Query: "county:"Pima" stateprovince:"Arizona" specificepithet:tigris genus:Crotalus year <= 2014" ; Times: 3
+	Query: "sceloporus coahuila" ; Times: 1
+	Query: "Trimorphodon stateprovince:"Arizona"" ; Times: 2
+	Query: "nubicola (hylidae)" ; Times: 6
+	Query: "UCM 21040" ; Times: 2
+	Query: "mexico chiapas Bolitoglossa mexicana mappable:1 distance(location,geopoint(16.341225619207496,-91.77978515625))<100000" ; Times: 1
+	Query: "hypopachus variolosus stateprovince:"texas"" ; Times: 1
+	Query: "sonora semiannulata (california) AND (NOT Texas NOT Nevada NOT Arizona NOT Oklahoma NOT Kansas NOT Idaho NOT Mexico)" ; Times: 1
+	Query: "crotalus jalisco" ; Times: 8
+	Query: "rana vaillanti" ; Times: 3
+	Query: "Manolepis putnami stateprovince:Oaxaca" ; Times: 1
+	Query: "Coluber constrictor Nebraska type:specimen" ; Times: 1
+	Query: "county:"el paso" stateprovince:"texas" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "ecnomiohyla" ; Times: 1
+	Query: "ctenosaura oaxaca" ; Times: 2
+	Query: "uta palmeri" ; Times: 2
+	Query: "micrurus oaxaca" ; Times: 1
+	Query: "UCM Aspidoscelis scalaris" ; Times: 2
+	Query: "Hyla arborea" ; Times: 2
+	Query: "thamnophis validus" ; Times: 7
+	Query: "tropidurus hispidus" ; Times: 2
+	Query: "museum number 48060" ; Times: 1
+	Query: "boa" ; Times: 2
+	Query: "bombina bombina" ; Times: 1
+	Query: "class:reptilia stateprovince:California county:Mono" ; Times: 2
+	Query: "sonora semiannulata (california) AND (NOT Texas)" ; Times: 1
+	Query: "IGUANA" ; Times: 1
+	Query: "catalognumber:16620 institutioncode:UCM" ; Times: 2
+	Query: "Anolis cuprinus" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 2
+	Query: "goniurosaurus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 3
+	Query: "Hyla sarda" ; Times: 2
+	Query: "Tretanorhinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 445 download events in this period)
+Total number of records downloaded: 24147 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 21081
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Portugal ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 2
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-03 ; Times: 1
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-07 ; Times: 4
+	Date: 2015-01-08 ; Times: 3
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-13 ; Times: 5
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-19 ; Times: 4
+	Date: 2015-01-20 ; Times: 3
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-24 ; Times: 4
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 2
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "mammals stateprovince:"durango" country:"mexico"" ; Times: 1
+	Query: "county:"Stanley" stateprovince:"south dakota"" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "stateprovince:"Guadalcanal" country:"Solomon Islands" class:Reptilia" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "country:"Honduras" class:Reptilia" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "Cuatro Cienegas" ; Times: 1
+	Query: "w-nigrum" ; Times: 1
+	Query: "mammals stateprovince:"coahuila" country:"mexico"" ; Times: 1
+	Query: "stateprovince:"sur" specificepithet:xanti genus:Phyllodactylus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California" class:Reptilia mappable:1" ; Times: 1
+	Query: "morelia viridis" ; Times: 2
+	Query: "Thamnophis radix Nebraska type:specimen" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "stateprovince:"new mexico" country:"united states" class:amphibia mappable:1" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "genus:Hydromantes" ; Times: 1
+	Query: "Solomon Islands type:specimen class:Reptilia (reptiles) year >= 1915 year <= 2015" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Crotalus horridus country:"United States" mappable:1" ; Times: 1
+	Query: "Onychodactylus japonicus" ; Times: 1
+	Query: "mammals stateprovince:"chihuahua" country:"mexico"" ; Times: 1
+	Query: "Sonora semiannulata stateprovince:"California"" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: "Discoglossus" ; Times: 1
+	Query: "tropidurus" ; Times: 1
+	Query: "rhinophrynus dorsalis stateprovince:"texas"" ; Times: 1
+	Query: "Crotalus atrox type:specimen stateprovince:"New Mexico"" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1227
+Total number of records retrieved from searches: 12350
+Number of download events that retrieved data from the resource: 47
+Total number of records downloaded: 24147
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1592
+Total number of records retrieved from searches: 15611
+Number of download events that retrieved data from the resource: 398
+Total number of records downloaded: 128469
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
