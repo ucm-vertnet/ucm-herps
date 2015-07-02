@@ -1,0 +1,592 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 597
+Number of records retrieved in searches: 4055
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 7
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 181
+	Country: Paraguay ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 372
+	Country: Unknown ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 7
+	Date: 2015-06-02 ; Times: 25
+	Date: 2015-06-03 ; Times: 11
+	Date: 2015-06-04 ; Times: 23
+	Date: 2015-06-05 ; Times: 21
+	Date: 2015-06-06 ; Times: 22
+	Date: 2015-06-07 ; Times: 50
+	Date: 2015-06-08 ; Times: 34
+	Date: 2015-06-09 ; Times: 19
+	Date: 2015-06-10 ; Times: 21
+	Date: 2015-06-11 ; Times: 15
+	Date: 2015-06-12 ; Times: 9
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 7
+	Date: 2015-06-15 ; Times: 20
+	Date: 2015-06-16 ; Times: 14
+	Date: 2015-06-17 ; Times: 8
+	Date: 2015-06-18 ; Times: 20
+	Date: 2015-06-19 ; Times: 26
+	Date: 2015-06-20 ; Times: 10
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 35
+	Date: 2015-06-23 ; Times: 15
+	Date: 2015-06-24 ; Times: 47
+	Date: 2015-06-25 ; Times: 28
+	Date: 2015-06-26 ; Times: 29
+	Date: 2015-06-27 ; Times: 9
+	Date: 2015-06-28 ; Times: 6
+	Date: 2015-06-29 ; Times: 24
+	Date: 2015-06-30 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ochoterenae genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:biporcatus genus:anolis" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Crotalus viridis stateprovince:"Oklahoma"" ; Times: 1
+	Query: "woodhousii stateprovince:"Nebraska"" ; Times: 3
+	Query: "heloderma" ; Times: 1
+	Query: "Ctenosaura hemilopha stateprovince:"Baja California"" ; Times: 3
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "crotalus viridis stateprovince:"Oklahoma"" ; Times: 2
+	Query: "cryptobranchus Pennsylvania warren" ; Times: 1
+	Query: "Aspidoscelis calidipes" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops" ; Times: 1
+	Query: "fasciata stateprovince:"Oklahoma"" ; Times: 3
+	Query: "crotalus lorenzoensis" ; Times: 4
+	Query: "Pituophis Wyoming" ; Times: 4
+	Query: "Thamnophis Guerrero" ; Times: 1
+	Query: "35696" ; Times: 4
+	Query: "oxybelis fulgidus" ; Times: 4
+	Query: "Conophis lineatus" ; Times: 1
+	Query: "country:"mexico" specificepithet:lepidus genus:Crotalus" ; Times: 3
+	Query: "chelydra rossignoni" ; Times: 3
+	Query: "pseudoeurycea nigromaculata" ; Times: 2
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "trimorphodon tau" ; Times: 2
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 4
+	Query: "country:"mexico" specificepithet:defensor" ; Times: 1
+	Query: "stateprovince:"Zacatecas" class:amphibia" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Plectrohyla cyanomma" ; Times: 1
+	Query: "Aristelliger georgeensis" ; Times: 1
+	Query: "Mabuya Guerrero" ; Times: 3
+	Query: "county:"Peoria" stateprovince:"Illinois" class:amphibia year <= 2015" ; Times: 1
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa" ; Times: 2
+	Query: "UCM type:specimen genus:Uma" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "country:"mexico" specificepithet:molossus genus:crotalus" ; Times: 2
+	Query: "aubria" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "Bufonidae (cycladen)" ; Times: 1
+	Query: "Thamnophis sirtalis university of colorado museum of natural history" ; Times: 2
+	Query: "heterodon distance(location,geopoint(41.73033005046653,-83.49609375))<100000" ; Times: 1
+	Query: "cryptobranchus pennsylvania" ; Times: 10
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 2
+	Query: "specificepithet:grandisquamis genus:Chironius" ; Times: 1
+	Query: "bufo alvarius" ; Times: 5
+	Query: "stateprovince:"Zacatecas" genus:Lithobates OR Rana class:amphibia" ; Times: 1
+	Query: "uruapan class:reptilia" ; Times: 1
+	Query: "stateprovince:"PENNSYLVANIA" country:"United States" (Herp or reptile or amphibian)" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: ""pituophis melanoleucus melanoleucus"" ; Times: 1
+	Query: "zacatecas amphibia" ; Times: 1
+	Query: "44801" ; Times: 1
+	Query: "Plectrohyla hazelae" ; Times: 3
+	Query: "Bufonidae (perplexus)" ; Times: 1
+	Query: "specificepithet:gadoviae genus:Sceloporus" ; Times: 1
+	Query: "crotalus viridis mohave" ; Times: 1
+	Query: "isla contoy" ; Times: 1
+	Query: "Mesoscincus schwartzei" ; Times: 1
+	Query: "Reptilia Converse Wyoming" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 2
+	Query: "Thamnophis sirtalis university of colorado museum of natural history Louisiana" ; Times: 2
+	Query: "specificepithet:melanurus genus:Drymarchon" ; Times: 1
+	Query: "phyllobates lugubris" ; Times: 2
+	Query: "higgins" ; Times: 1
+	Query: "338 county:"Hidalgo" stateprovince:"New Mexico" class:Reptilia" ; Times: 2
+	Query: "genus:Thamnophis distance(location,geopoint(19.41630350595311,-102.00325012207031))<36633" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 4
+	Query: ""sceloporus magister" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "country:"Honduras" year >= 1964 year <= 1965" ; Times: 2
+	Query: "crotalus tortugensis" ; Times: 1
+	Query: "smelter stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "Sceloporus horridus Guerrero" ; Times: 1
+	Query: "Python curtus" ; Times: 4
+	Query: "conopsis megalodon" ; Times: 2
+	Query: "specificepithet:pullatus genus:Spilotes" ; Times: 1
+	Query: "animas stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "Ambystoma jeffersonianum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 14
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "specificepithet:bulleri genus:Sceloporus" ; Times: 2
+	Query: "reptilia mineral colorado" ; Times: 1
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" class:Reptilia" ; Times: 1
+	Query: "dendropsophus anceps" ; Times: 1
+	Query: "Atropoides" ; Times: 14
+	Query: "type:specimen specificepithet:georgeensis genus:aristelliger" ; Times: 1
+	Query: "Thamnophis mineral" ; Times: 3
+	Query: "rhinocheilus stateprovince:"Oklahoma"" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "bufo hemiophrys" ; Times: 1
+	Query: "Conopsis acuta" ; Times: 2
+	Query: "rana areolata circulosa" ; Times: 1
+	Query: "thamnophis eques" ; Times: 4
+	Query: "(lepidus Catron County)" ; Times: 1
+	Query: "Plestiodon septentrionalis kansas" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 1
+	Query: "Abronia oaxacae" ; Times: 2
+	Query: "Gerrhonotus liocephalus" ; Times: 6
+	Query: "Eleutherodactylus nitidus" ; Times: 4
+	Query: "dragonflies" ; Times: 1
+	Query: "county:"san bernardino" stateprovince:"California" specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "sceloporus salvini" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:blainvillii genus:phrynosoma" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 5
+	Query: "country:"paraguay" genus:Homonota" ; Times: 1
+	Query: "Smilisca Guerrero" ; Times: 1
+	Query: "UCM 8625" ; Times: 1
+	Query: "Ambystoma californiense distance(location,geopoint(37.63607738393085,-121.64749145507812))<100000" ; Times: 1
+	Query: "phrynosoma modestum "new mexico"" ; Times: 2
+	Query: "Iguana iguana Guerrero" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "thamnophis sirtalis university of colorado museum of natural history louisiana" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "Oklahoma Rhinocheilus lecontei" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Leptophis" ; Times: 1
+	Query: "Ciudad Juarez" ; Times: 21
+	Query: "Chilapa" ; Times: 1
+	Query: "county:"crane" stateprovince:"Texas" country:"United States" class:reptilia" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon" ; Times: 1
+	Query: "specificepithet:veliferum genus:Amastridium" ; Times: 2
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "Plestiodon indubitus" ; Times: 7
+	Query: "specificepithet:pulcherrimus genus:Leptodrymus" ; Times: 1
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 1
+	Query: ""urosaurus graciosus" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "thamnophis pulchrilatus" ; Times: 3
+	Query: "crotaphytus collaris "new mexico"" ; Times: 1
+	Query: "rhadinaea fulvivittis" ; Times: 2
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "UCM type:specimen genus:taricha" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 2
+	Query: "aRIZONA CROTALUS MOLOSSUS" ; Times: 3
+	Query: "Sceloporus grammicus Guerrero" ; Times: 2
+	Query: "cowan vertebrate museum" ; Times: 1
+	Query: "Herp reptile amphibian stateprovince:"PENNSYLVANIA" country:"United States"" ; Times: 1
+	Query: "cryptobranchus pennsylvania allegheny" ; Times: 1
+	Query: "highway 81 stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "county:"Inyo" genus:Sauromalus" ; Times: 2
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "Sonora semiannulata country:"mexico"" ; Times: 1
+	Query: "genus:crotalus distance(location,geopoint(19.642587534013046,-88.681640625))<170267" ; Times: 1
+	Query: "Dendropsophus anceps" ; Times: 1
+	Query: "country:"mexico" specificepithet:mitchellii genus:crotalus" ; Times: 2
+	Query: "thamnophis godmani" ; Times: 1
+	Query: "Trimorphodon stateprovince:"California"" ; Times: 1
+	Query: ""phrynosoma mcallii" stateprovince:"california"" ; Times: 1
+	Query: "genus:elaphe distance(location,geopoint(41.73033005046653,-83.49609375))<100000" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 2
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 1
+	Query: "genus:seminatrix institutioncode:ucm" ; Times: 1
+	Query: "Sceloporus melanorhinus Guerrero" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+	Query: "lampropeltis county:"greer" stateprovince:"Oklahoma"" ; Times: 1
+	Query: "mabuya unimarginata" ; Times: 5
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "animas road stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "country:"Panama" class:Reptilia institutioncode:UCM" ; Times: 1
+	Query: "genus:Thamnophis distance(location,geopoint(19.42083670428058,-102.00531005859375))<33535" ; Times: 1
+	Query: "Bufo cycladen" ; Times: 1
+	Query: "Eleutherodactylus pallidus" ; Times: 1
+	Query: "UCM 1025" ; Times: 2
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "Eleutherodactylus angustidigitorum" ; Times: 1
+	Query: "county:"Peoria" stateprovince:"Illinois" class:Reptilia year <= 2015" ; Times: 1
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" class:Reptilia institutioncode:UCM" ; Times: 2
+	Query: "county:"upton" stateprovince:"Texas" country:"United States" class:reptilia" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:catenatus genus:sistrurus" ; Times: 2
+	Query: "Ocampo Coahuila" ; Times: 1
+	Query: "Blanus tingitanus" ; Times: 1
+	Query: "specificepithet:flavitorques genus:Enulius" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 6
+	Query: "thorius dubitus" ; Times: 1
+	Query: "Eleutherodactylus teretistes" ; Times: 1
+	Query: "gambelia county:"riverside"" ; Times: 4
+	Query: "CROTALUS MOLOSSUS" ; Times: 1
+	Query: "ambystoma opacum distance(location,geopoint(34.30714385628804,-86.923828125))<328245" ; Times: 1
+	Query: "aspidoscelis sonorae" ; Times: 2
+	Query: "magister county:"San Diego"" ; Times: 1
+	Query: "specificepithet:deserticola genus:Salvadora" ; Times: 1
+	Query: "sceloporus aureolus" ; Times: 1
+	Query: "septentrionalis kansas" ; Times: 1
+	Query: "hyla plicata" ; Times: 1
+	Query: "338 stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "Plectrohyla robertsorum" ; Times: 1
+	Query: "stateprovince:"Michoacan" genus:Thamnophis" ; Times: 2
+	Query: "higgins stateprovince:"north carolina"" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:multivirgatus year <= 2015" ; Times: 1
+	Query: "Hyla versicolor stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "Phyllobates lugubris" ; Times: 1
+	Query: "country:"Colombia" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora" ; Times: 1
+	Query: "Notophthalmus viridescens stateprovince:"Michigan" country:"United States"" ; Times: 2
+	Query: "type:specimen county:"Riverside" stateprovince:"California" country:"United States" genus:Lichanura class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:Debilis year <= 2015" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "thamnophis chrysocephalus" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Bufo perplexus" ; Times: 1
+	Query: "Heterodon platirhinos stateprovince:"Michigan" country:"United States"" ; Times: 2
+	Query: "ouray colorado sceloporus" ; Times: 1
+	Query: "Bufonidae Guerrero" ; Times: 5
+	Query: "Herp stateprovince:"PENNSYLVANIA" country:"United States"" ; Times: 1
+	Query: "thamnophis sirtalis university of colorado museum of natural history" ; Times: 1
+	Query: "mineral county colorado" ; Times: 1
+	Query: "Ctenosaura Guerrero" ; Times: 5
+	Query: "phrynosoma year >= 1963 year <= 1963" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "bufo baxteri" ; Times: 3
+	Query: "specificepithet:bilineatus genus:Agkistrodon" ; Times: 1
+	Query: "crotalus mitchellii stephensi" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Boqueron" country:"Paraguay" class:Reptilia" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "county:"marshall" stateprovince:"Oklahoma" class:reptilia" ; Times: 1
+	Query: "Phyllodactylus lanei Guerrero" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "cu 2404" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "Rana capito" ; Times: 1
+	Query: "specificepithet:palarostris genus:Chionactis" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 2
+	Query: "Bufonidae (spiculatus)" ; Times: 2
+	Query: "Drymobius chloroticus" ; Times: 3
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" genus:Bothrops institutioncode:UCM" ; Times: 2
+	Query: "specificepithet:godmani genus:Cerrophidion" ; Times: 1
+	Query: "shannonorum" ; Times: 1
+	Query: "Bolitoglossa flaviventris" ; Times: 1
+	Query: "viridis stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Dendropsophus leucophyllatus" ; Times: 1
+	Query: "pantherophis emoryi country:"mexico"" ; Times: 1
+	Query: "Reptilia great sand dunes" ; Times: 1
+	Query: "338 county:"Hidalgo" stateprovince:"New Mexico" class:Amphibia" ; Times: 1
+	Query: "Aspidoscelis sonorae" ; Times: 5
+	Query: "virginia pulchra warren" ; Times: 1
+	Query: "country:"Mexico" genus:Gerrhonotus" ; Times: 1
+	Query: "Eurycea guttolineata stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "Corytophanes percarinatus" ; Times: 3
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "elaphe obsoleta stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "phrynosoma hernandesi eddy county" ; Times: 1
+	Query: "Terrapene carolina carolina stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "genus:agkistrodon distance(location,geopoint(20.673905264672843,-88.505859375))<100000" ; Times: 1
+	Query: "Craugastor tarahumaraensis" ; Times: 1
+	Query: "Conopsis lineata" ; Times: 3
+	Query: "Trachemys scripta stateprovince:"Texas"" ; Times: 1
+	Query: "county:"San Bernardino" stateprovince:"California" specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 3
+	Query: "lacertilia" ; Times: 1
+	Query: "gyrinophilus pennsylvania mappable:1" ; Times: 2
+	Query: "Trimorphodon stateprovince:"Arizona"" ; Times: 3
+	Query: "Craugastor uno" ; Times: 1
+	Query: "Sceloporus gadoviae Guerrero" ; Times: 2
+	Query: "Sibon nebulatus mexico" ; Times: 1
+	Query: "huichapan" ; Times: 1
+	Query: "cROTALUS MOLOSSUS" ; Times: 1
+	Query: "specificepithet:myersi genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:chloroticus genus:Drymobius" ; Times: 1
+	Query: "specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "lemos" ; Times: 1
+	Query: "Pelamis Guerrero" ; Times: 1
+	Query: "county:"Mono" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" genus:Bothrops" ; Times: 1
+	Query: "bmnh" ; Times: 2
+	Query: "stateprovince:"Indiana" (Wells County) mappable:1" ; Times: 1
+	Query: "UCM type:specimen specificepithet:torosa genus:taricha" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "radix nebraska" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "64392" ; Times: 1
+	Query: "Arizona elegans stateprovince:"oklahoma"" ; Times: 1
+	Query: "stateprovince:"baja california" country:"mexico" specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "ascaphus stateprovince:"oregon"" ; Times: 1
+	Query: "trachemys gaigeae" ; Times: 2
+	Query: "Plethodon cinereus type:specimen stateprovince:"Minnesota" year >= 1950 year <= 2000" ; Times: 1
+	Query: "county:"Alpine" stateprovince:"California" class:amphibia" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "Bufo mexicanus" ; Times: 1
+	Query: "Sonora michoacanensis" ; Times: 1
+	Query: "heterodon nasicus stateprovince:"oklahoma"" ; Times: 1
+	Query: "lepidophyma gaigeae" ; Times: 1
+	Query: "phrynosoma holtville" ; Times: 2
+	Query: "Crotalus viridis Oklahoma" ; Times: 1
+	Query: "crotalus intermedius" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "reynoldsi" ; Times: 1
+	Query: "specificepithet:freminvillei genus:Stenorrhina" ; Times: 1
+	Query: "specificepithet:nummifer genus:Atropoides" ; Times: 1
+	Query: "Plectrohyla matudai" ; Times: 1
+	Query: "coleonyx variegatus sonora mexico" ; Times: 2
+	Query: "stateprovince:"Pennsylvania" genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Thamnophis distance(location,geopoint(19.42083670428058,-102.05474853515625))<100000" ; Times: 1
+	Query: "pseudacris triseriata year >= 2000 year <= 2015" ; Times: 2
+	Query: "cryptobranchus Pennsylvania" ; Times: 41
+	Query: "Plethodon hoffmani stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "fowleri centre" ; Times: 2
+	Query: "Rivularis humboldt" ; Times: 3
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "46590" ; Times: 1
+	Query: "type:specimen specificepithet:georgeensis genus:aristelliger institutioncode:UCM" ; Times: 1
+	Query: "calligaster louisiana" ; Times: 7
+	Query: "uruapan class:Reptilia" ; Times: 1
+	Query: "county:"Hidalgo" stateprovince:"New Mexico" genus:Uta" ; Times: 2
+	Query: "type:specimen county:"Riverside" stateprovince:"California" country:"United States" genus:Lampropeltis class:Reptilia" ; Times: 1
+	Query: "planiceps" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "distance(location,geopoint(19.048272959540967,-98.15185546875))<16318" ; Times: 1
+	Query: "reptilia ouray" ; Times: 1
+	Query: "reptilia lake co colorado" ; Times: 1
+	Query: "boa constrictor" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 1524 download events in this period)
+Total number of records downloaded: 13686 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12145
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 108
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 37
+	Date: 2015-06-03 ; Times: 13
+	Date: 2015-06-04 ; Times: 11
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 6
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 5
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 11
+	Date: 2015-06-25 ; Times: 12
+	Date: 2015-06-26 ; Times: 13
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenosaura hemilopha stateprovince:"Baja California"" ; Times: 1
+	Query: "Bufonidae (cycladen)" ; Times: 1
+	Query: "Dicamptodon stateprovince:"California"" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "enhydrina" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "country:"Mexico" genus:Elgaria" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Bufonidae (ibarrai)" ; Times: 1
+	Query: "Plethodon glutinosus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "Thamnophis sirtalis university of colorado museum of natural history" ; Times: 1
+	Query: "Terrapene carolina carolina stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Notophthalmus viridescens viridescens stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Aspidoscelis stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Chrysemys picta marginata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "zacatecas amphibia" ; Times: 1
+	Query: "Bufonidae (mazatlanensis)" ; Times: 1
+	Query: "dicamptodon stateprovince:"california"" ; Times: 1
+	Query: "gyrinophilus pennsylvania mappable:1" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 1
+	Query: "aspidoscelis motaguae" ; Times: 1
+	Query: "Bufonidae (marmoreus)" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "Rana clamitans stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:"Pennsylvania" mappable:1" ; Times: 2
+	Query: "Bufonidae (bocourti)" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Nerodia sipedon sipedon stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "pternohyla fodiens" ; Times: 1
+	Query: "Bolitoglossa sp" ; Times: 1
+	Query: "Chrysemys picta stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo mazatlanensis" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "Bufonidae (perplexus)" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Desmognathus fuscus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo mexicanus" ; Times: 2
+	Query: "Rana pipiens stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Bufo kelloggi" ; Times: 2
+	Query: ""taricha rivularis" mappable:1" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" genus:Cnemidophorus" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Plethodon hoffmani stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo spiculatus" ; Times: 1
+	Query: "bufo retiformis" ; Times: 1
+	Query: "country:"paraguay" class:reptilia" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: ""taricha torosa" mappable:1" ; Times: 1
+	Query: "Desmognathus monticola stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudacris brachyphona stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon) mappable:1" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Eleutherodactylus pallidus" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "Eleutherodactylus angustidigitorum" ; Times: 1
+	Query: "bufo microscaphus" ; Times: 1
+	Query: "Bufo americanus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Eleutherodactylus teretistes" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: ""rhyacotriton olympicus" mappable:1" ; Times: 1
+	Query: "aspidoscelis sonorae" ; Times: 1
+	Query: ""sceloporus magister" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "Bufonidae (occidentalis)" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon)" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Hyla versicolor stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "quetzaltenango" ; Times: 1
+	Query: "Bufonidae (nebulifer)" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "338 county:"Hidalgo" stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "Xantusia vigilis Baja California" ; Times: 2
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Plethodon wehrlei stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "bufo baxteri" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo hemiophrys" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "Xantusia wigginsi" ; Times: 1
+	Query: "Gyrinophilus porphyriticus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "yemen" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 1
+	Query: "Bufonidae (spiculatus)" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Plethodon cinereus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Desmognathus ochrophaeus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Aspidoscelis sonorae" ; Times: 1
+	Query: "country:"Mexico" genus:Gerrhonotus" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 2
+	Query: "county:"San Bernardino" stateprovince:"California" specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: ""phrynosoma mcallii" stateprovince:"california"" ; Times: 1
+	Query: "Craugastor uno" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 1
+	Query: "Bufonidae (canaliferus)" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Bufo fowleri stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Craugastor tarahumaraensis" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Bufo cycladen" ; Times: 1
+	Query: "Plectrohyla matudai" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "Bufo perplexus" ; Times: 1
+	Query: ""sceloporus jarrovii" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "Rana palustris stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "county:"Hidalgo" stateprovince:"New Mexico" genus:Uta" ; Times: 1
+	Query: "Rana sylvatica stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"california" genus:dicamptodon" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+	Query: "Ambystoma jeffersonianum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2807
+Total number of records retrieved from searches: 23644
+Number of download events that retrieved data from the resource: 498
+Total number of records downloaded: 120513
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3172
+Total number of records retrieved from searches: 26905
+Number of download events that retrieved data from the resource: 849
+Total number of records downloaded: 224835
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
