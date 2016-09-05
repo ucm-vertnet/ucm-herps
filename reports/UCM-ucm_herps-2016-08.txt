@@ -1,0 +1,410 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 445
+Number of records retrieved in searches: 4819
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 276
+	Country: Mexico ; Times: 99
+	Country: United Arab Emirates ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 31
+	Country: Unknown ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 13
+	Date: 2016-08-11 ; Times: 16
+	Date: 2016-08-12 ; Times: 43
+	Date: 2016-08-13 ; Times: 4
+	Date: 2016-08-14 ; Times: 13
+	Date: 2016-08-15 ; Times: 14
+	Date: 2016-08-16 ; Times: 33
+	Date: 2016-08-17 ; Times: 9
+	Date: 2016-08-18 ; Times: 34
+	Date: 2016-08-19 ; Times: 19
+	Date: 2016-08-30 ; Times: 20
+	Date: 2016-08-31 ; Times: 14
+	Date: 2016-08-29 ; Times: 9
+	Date: 2016-08-28 ; Times: 5
+	Date: 2016-08-25 ; Times: 11
+	Date: 2016-08-24 ; Times: 30
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 38
+	Date: 2016-08-21 ; Times: 67
+	Date: 2016-08-20 ; Times: 18
+	Date: 2016-08-23 ; Times: 23
+	Date: 2016-08-22 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen (Craugastor PYGMAeus)" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "nuntius new mexico" ; Times: 2
+	Query: "locality:saratoga recordedby:maslin year &gt;= 1940 institutioncode:UCM" ; Times: 1
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "Crotalus oaxacus" ; Times: 5
+	Query: "genus:aneides locality:felton recordedby:maslin year &gt;= 1940" ; Times: 1
+	Query: "anolis dunni" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "genus:Eumeces stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Crotalus oreganus AND (viridis)" ; Times: 2
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 22
+	Query: "bufo woodhousii new mexico" ; Times: 3
+	Query: "anolis rodriguezi" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 8
+	Query: "bungarus flaviceps" ; Times: 1
+	Query: "Heterodon stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 7
+	Query: "crotalus san juan new mexico" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "type:specimen specificepithet:coqui genus:eleutherodactylus stateprovince:&#34;puerto rico&#34; mappable:1" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 4
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides locality:felton recordedby:maslin year &gt;= 1940 institutioncode:UCM" ; Times: 1
+	Query: "Speleomantes" ; Times: 1
+	Query: "desmognathus auriculatus north carolina" ; Times: 2
+	Query: "pennock station" ; Times: 1
+	Query: "Varanus bengalensis" ; Times: 1
+	Query: "genus:Lampropeltis lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 1
+	Query: "specificepithet:montanus genus:Ascaphus mappable:1" ; Times: 6
+	Query: "Plestiodon septentrionalis kansas" ; Times: 1
+	Query: "amphiesma monticola" ; Times: 1
+	Query: "Scincella silvicola" ; Times: 1
+	Query: "Ascaphus montanus" ; Times: 9
+	Query: "Varanus bengalensis type:specimen" ; Times: 1
+	Query: "anniella pulchra distance(location,geopoint(36.946965158341854,-122.431640625))&lt;100000" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Pseudoeurycea anitae" ; Times: 2
+	Query: "ambystoma stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "bothriechis guatemala" ; Times: 4
+	Query: "genus:aneides locality:felton recordedby:maslin year &gt;= 1940 institutioncode:UCM" ; Times: 1
+	Query: "clelia mexico" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "ascaphus montanus" ; Times: 5
+	Query: "crotalus molossus" ; Times: 1
+	Query: "genus:Lichanura stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Anolis nitens 1" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Pseudoficimia" ; Times: 1
+	Query: "ficimia" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "gastrophryne mazatlanensis" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "nuntius arizona" ; Times: 2
+	Query: "pseudacris maculata nebraska" ; Times: 1
+	Query: "&#34;Coleonyx variegatus variegatus&#34;" ; Times: 1
+	Query: "order:anura locality:Redding" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 1
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "Diaglena spatulata" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 3
+	Query: "Anolis limifrons 1" ; Times: 3
+	Query: "genus:Virginia stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Anolis cymbops" ; Times: 1
+	Query: "lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "kane county utah" ; Times: 1
+	Query: "Cochise county Heterodon" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "genus:aneides locality:forks recordedby:maslin year &gt;= 1941" ; Times: 1
+	Query: "specificepithet:publia genus:ficimia" ; Times: 1
+	Query: "Nerodia harteri stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 5
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Aspidoscelis tesselata" ; Times: 1
+	Query: "elgaria cochise" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "xylophis" ; Times: 2
+	Query: "&#34;Coleonyx variegatus variegatus&#34; Arizona" ; Times: 1
+	Query: "anolis cuprinus" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 2
+	Query: "Thamnophis validus" ; Times: 1
+	Query: "order:Caudata stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 6
+	Query: "locality:felton recordedby:maslin year &gt;= 1940" ; Times: 1
+	Query: "Kino sonora colubridae" ; Times: 3
+	Query: "genus:aneides locality:Congress Springs recordedby:maslin year &gt;= 1940 institutioncode:UCM" ; Times: 1
+	Query: "barisia ciliaris" ; Times: 1
+	Query: "anitae" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 2
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Crotalus horridus stateprovince:new york" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 45
+	Query: "hyla arenicolor new mexico" ; Times: 1
+	Query: "Anolis nannodes 1" ; Times: 2
+	Query: "type:specimen (Craugastor mexicanus) institutioncode:UCM" ; Times: 1
+	Query: "Anolis dunni 1" ; Times: 2
+	Query: "Clonophis" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "anolis petersii" ; Times: 1
+	Query: "Anolis cupreus 1" ; Times: 3
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 5
+	Query: "Aspidoscelis marmorata new mexico" ; Times: 1
+	Query: "Heterodon Willcox" ; Times: 3
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 8
+	Query: "Anolis quercorum  1" ; Times: 3
+	Query: "Eleutherodactylus pallidus" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Anolis nebuloides 1" ; Times: 3
+	Query: "Anolis nebulosus 1" ; Times: 5
+	Query: "Megastomatohyla mixomaculata" ; Times: 1
+	Query: "Crotalus transversus" ; Times: 2
+	Query: "varanus flavescens" ; Times: 1
+	Query: "catenatus arizona" ; Times: 1
+	Query: "leptodeira annulata" ; Times: 1
+	Query: "Crotalus Lepidus" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "Craugastor mexicanus UCM" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 2
+	Query: "Anolis laeviventris" ; Times: 1
+	Query: "Craugastor pygmaeus" ; Times: 1
+	Query: "Racoon" ; Times: 1
+	Query: "specificepithet:planiceps genus:Tantilla" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 3
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 1
+	Query: "type:specimen (Craugastor pygmaeus) institutioncode:UCM" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Norops rodriguezi 1" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 4
+	Query: "pituophis mugitus" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 2
+	Query: "genus:Bufo order:Anura stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:sibon stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "64030" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Craugastor pygmaeus UCM" ; Times: 1
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "Norops limifrons 1" ; Times: 2
+	Query: "Anolis barkeri 1" ; Times: 2
+	Query: "Trachycephalus venulosus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "reptilia san juan new mexico" ; Times: 2
+	Query: "specificepithet:flavipunctatus genus:aneides locality:Congress Springs recordedby:maslin year &gt;= 1940 institutioncode:UCM" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "taricha sierrae" ; Times: 1
+	Query: "specificepithet:wilcoxi genus:Tantilla" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 2
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 3
+	Query: "crotalus salvini" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "genus:aneides locality:saratoga recordedby:maslin year &gt;= 1940 institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 3
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: "Sistrurus" ; Times: 2
+	Query: "Eumeces copei" ; Times: 1
+	Query: "specificepithet:taeniatus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Varanus dumerili" ; Times: 2
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "anolis taylori" ; Times: 1
+	Query: "Plestiodon marginatus" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "Gastrophryne mazatlanensis" ; Times: 1
+	Query: "TP" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "bufo cognatus new mexico" ; Times: 2
+	Query: "collector schmitz" ; Times: 1
+	Query: "specificepithet:pectinata genus:Ctenosaura stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "pituophis melanoleucus mugitus" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "Gonatodes antillensis (Gonatodes antillensis)" ; Times: 1
+	Query: "Anolis quercorum 1" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "chinipas chihuahua" ; Times: 1
+	Query: "Craugastor Pygmaeus" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 2
+	Query: "pennock mississippi" ; Times: 1
+	Query: "desmognathus stateprovince:&#34;texas&#34; (desmognathus )" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 12
+	Query: "Megastomatohyla nubicola" ; Times: 2
+	Query: "anolis cymbops" ; Times: 2
+	Query: "Crotalus salvini" ; Times: 1
+	Query: "speleomantes" ; Times: 1
+	Query: "genus:Corucia locality:island" ; Times: 1
+	Query: "Anolis pygmaeus" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Lampropeltis getula New Mexico" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "Hyla wrightorum" ; Times: 2
+	Query: "boa constrictor" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 924 download events in this period)
+Total number of records downloaded: 30586
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 76
+	Country: United Arab Emirates ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 4
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 12
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 8
+	Date: 2016-08-17 ; Times: 4
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-24 ; Times: 7
+	Date: 2016-08-27 ; Times: 6
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 4
+	Date: 2016-08-30 ; Times: 15
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-25 ; Times: 6
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana boylii" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "anolis dunni" ; Times: 1
+	Query: "anolis rodriguezi" ; Times: 1
+	Query: "anolis humilis" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "plethodon shenandoah" ; Times: 1
+	Query: "anolis dollfusianus" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "distance(location,geopoint(22.76372984514836,-102.58277893066406))&lt;15321" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "Mecca" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "varanus dumerili type:specimen" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "&#34;Coleonyx variegatus variegatus&#34; Arizona" ; Times: 4
+	Query: "anolis cuprinus" ; Times: 1
+	Query: "anolis uniformis" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "anolis petersii" ; Times: 2
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Thamnophis elegans Nevada" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Bufo Kelloggi" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "anolis cupreus" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "bufo cognatus new mexico" ; Times: 1
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 2
+	Query: "anolis cybotes" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "type:specimen specificepithet:coqui genus:eleutherodactylus stateprovince:&#34;puerto rico&#34; mappable:1" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "anolis taylori" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Gambelia sila" ; Times: 1
+	Query: "anolis bimaculatus" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "namiquipa" ; Times: 1
+
+
+End of report.
