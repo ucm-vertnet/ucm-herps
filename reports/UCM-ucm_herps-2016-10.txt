@@ -1,0 +1,70 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 1576
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 10
+	Country: Colombia ; Times: 12
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-31 ; Times: 2
+	Date: 2016-10-03 ; Times: 6
+	Date: 2016-10-20 ; Times: 1
+	Date: 2016-10-26 ; Times: 10
+	Date: 2016-10-09 ; Times: 4
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-05 ; Times: 5
+	Date: 2016-10-02 ; Times: 5
+	Date: 2016-10-10 ; Times: 5
+	Date: 2016-10-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: " Anolis lemurinus 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: " specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta mappable:1" ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 2
+	Query: "Bufo mauritanicus 1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 3
+	Query: "Macroprotodon mauritanicus 1" ; Times: 1
+	Query: "Parvimolge townsendi" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: "Testudo marginata 1" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia mappable:1" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 6
+	Query: "Scinax staufferi" ; Times: 3
+	Query: "Anolis humilis 1" ; Times: 1
+	Query: "Anolis cristatellus 1" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: " Anolis taylori 1" ; Times: 1
+	Query: " Anolis nebulosus 1" ; Times: 1
+	Query: "Anolis carolinensis 1" ; Times: 2
+	Query: " Anolis capito 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
