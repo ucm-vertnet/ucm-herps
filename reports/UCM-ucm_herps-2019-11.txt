@@ -1,0 +1,719 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1056
+Number of records retrieved in searches: 5972
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 31
+	Country: Canada ; Times: 14
+	Country: Italy ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: Costa Rica ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Bosnia and Herzegovina ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: China ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 826
+	Country: Sweden ; Times: 67
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 73
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 10
+	Date: 2019-11-18 ; Times: 15
+	Date: 2019-11-30 ; Times: 5
+	Date: 2019-11-15 ; Times: 66
+	Date: 2019-11-14 ; Times: 59
+	Date: 2019-11-17 ; Times: 12
+	Date: 2019-11-16 ; Times: 74
+	Date: 2019-11-11 ; Times: 31
+	Date: 2019-11-10 ; Times: 12
+	Date: 2019-11-13 ; Times: 20
+	Date: 2019-11-12 ; Times: 86
+	Date: 2019-11-08 ; Times: 95
+	Date: 2019-11-09 ; Times: 63
+	Date: 2019-11-06 ; Times: 50
+	Date: 2019-11-07 ; Times: 158
+	Date: 2019-11-20 ; Times: 13
+	Date: 2019-11-21 ; Times: 22
+	Date: 2019-11-22 ; Times: 18
+	Date: 2019-11-23 ; Times: 7
+	Date: 2019-11-24 ; Times: 6
+	Date: 2019-11-25 ; Times: 26
+	Date: 2019-11-26 ; Times: 10
+	Date: 2019-11-27 ; Times: 10
+	Date: 2019-11-28 ; Times: 11
+	Date: 2019-11-29 ; Times: 30
+	Date: 2019-11-04 ; Times: 23
+	Date: 2019-11-05 ; Times: 34
+	Date: 2019-11-02 ; Times: 27
+	Date: 2019-11-03 ; Times: 54
+	Date: 2019-11-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "417004" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2010" ; Times: 3
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2019" ; Times: 3
+	Query: "genus:anniella specificepithet:pulchra institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Quintana roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "varanus yuwonoi" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "hyla morelos" ; Times: 4
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Walton County ambystoma" ; Times: 1
+	Query: "leon holotype" ; Times: 1
+	Query: "genus:saiphos specificepithet:equalis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "incilius perplexus morelos" ; Times: 1
+	Query: "humilis walnut canyon" ; Times: 1
+	Query: "Sauromalus" ; Times: 1
+	Query: "tantilla morelos" ; Times: 3
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:siren year &lt;= 1955" ; Times: 3
+	Query: "TB SAL 1" ; Times: 1
+	Query: "Quadrangulare" ; Times: 2
+	Query: "hyla arborea" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Wakulla&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Storeria occipitomaculata mappable:1" ; Times: 1
+	Query: "genus:lialis specificepithet:burtonis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; recordedby:weber" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 14
+	Query: "24573" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "Drymarchon couperi 2017" ; Times: 4
+	Query: "W.C. Sherbrooke" ; Times: 1
+	Query: "spea morelos" ; Times: 2
+	Query: "Drymarchon couperi 2019" ; Times: 4
+	Query: "Lithobates chiricahuensis 2012" ; Times: 4
+	Query: "sonora michoacanensis morelos" ; Times: 1
+	Query: "Lithobates chiricahuensis 2016" ; Times: 4
+	Query: "Santa Rosa County ambystoma" ; Times: 2
+	Query: "Lithobates chiricahuensis 2019" ; Times: 4
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "epinephelus order:Squamata" ; Times: 1
+	Query: "Neoseps reynoldsi 2011" ; Times: 4
+	Query: "Gopherus agassizii 2005" ; Times: 7
+	Query: "Gopherus agassizii 2006" ; Times: 7
+	Query: "Gopherus agassizii 2007" ; Times: 7
+	Query: "Neoseps reynoldsi 2019" ; Times: 4
+	Query: "Neoseps reynoldsi 2018" ; Times: 4
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Campeche&#34;" ; Times: 1
+	Query: "incilius occidentalis morelos" ; Times: 2
+	Query: "64191" ; Times: 1
+	Query: "craugastor pygmaeus" ; Times: 1
+	Query: "Cerrophidion" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "sceloporus consobrinus" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Levy&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:47954 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon" ; Times: 2
+	Query: "sonora michoacanensis" ; Times: 1
+	Query: "Ambystoma californiense 1998" ; Times: 9
+	Query: "rana neovolcanica" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "specificepithet:attenuatus genus:ophisaurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "genus:xenopeltis specificepithet:unicolor institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "tretanorhinus nigroluteus" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "Leon holotype" ; Times: 3
+	Query: "tretanorhinus" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 9
+	Query: "varanus flavescens" ; Times: 1
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "kinosternon morelos" ; Times: 2
+	Query: "specificepithet:merriami genus:Sceloporus" ; Times: 1
+	Query: "infernalis specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "Sistrurus catenatus 2018" ; Times: 4
+	Query: "61707" ; Times: 2
+	Query: "Sistrurus catenatus 1999" ; Times: 4
+	Query: "Sistrurus catenatus 1997" ; Times: 4
+	Query: "Sistrurus catenatus 1996" ; Times: 4
+	Query: "Sistrurus catenatus 1995" ; Times: 4
+	Query: "Sistrurus catenatus 1994" ; Times: 4
+	Query: "Sistrurus catenatus 1991" ; Times: 4
+	Query: "Sistrurus catenatus 1990" ; Times: 4
+	Query: "35676" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "Rana draytonii 2004" ; Times: 7
+	Query: "specificepithet:guttilatus genus:Eleutherodactylus" ; Times: 3
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "52292" ; Times: 1
+	Query: "genus:blanus specificepithet:cinereus institutioncode:fmnh OR mpm OR usnm OR ansp OR asnhc OR aum OR bummc OR mmnh OR blb OR bsns OR csuc OR csulb OR crcm OR ccber OR chas OR cmnh OR cumv" ; Times: 1
+	Query: "agalychnis morelos" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UCM" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "Crotalus triseriatus" ; Times: 3
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "family:Viperidae genus:crotalus stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Union&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leptodeira septentrionalis mexico" ; Times: 2
+	Query: "aspidoscelis inornatus" ; Times: 2
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "leptodeira septentrionalis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "anolis capito" ; Times: 2
+	Query: "Bothriechis" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "gerrhonotus ophiurus" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "plestiodon lynxe mexico" ; Times: 2
+	Query: "Sceloporus megalepidurus" ; Times: 2
+	Query: "specificepithet:siculus genus:podarcis continent:europe" ; Times: 1
+	Query: "genus:crotalus county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Pasco&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Karon" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "Neoseps reynoldsi 1984" ; Times: 4
+	Query: "Drymobius rhombifer" ; Times: 2
+	Query: "vntype:specimen genus:Andrias" ; Times: 2
+	Query: "Salvadora mexicana Mexico" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "masticophis morelos" ; Times: 2
+	Query: "Thamnophis scaliger mappable:1" ; Times: 1
+	Query: "specificepithet:brachystoma genus:Thamnophis" ; Times: 1
+	Query: "Crocodylus acutus 2006" ; Times: 4
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "Thamnophis pulchrilatus mappable:1" ; Times: 1
+	Query: "ameiva morelos" ; Times: 3
+	Query: "genus:Crotalus stateprovince:&#34;Coahuila&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "eumeces morelos" ; Times: 3
+	Query: "02009" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "SCELOPORUS torquatus morelos" ; Times: 1
+	Query: "Lemos Espinal" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii country:&#34;United States&#34;" ; Times: 1
+	Query: "rana morelos" ; Times: 1
+	Query: "stateprovince:&#34;connecticut&#34; (Bufo Anaxyrus fowleri)" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:ventralis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus morelos" ; Times: 4
+	Query: "Epictia phenops" ; Times: 1
+	Query: "specificepithet:hardii genus:Aneides" ; Times: 2
+	Query: "tantilla deppei morelos" ; Times: 1
+	Query: "Thamnophis chrysocephalus mappable:1" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Craugastor specificepithet:rhodopis" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Sistrurus catenatus 1973" ; Times: 4
+	Query: "Sistrurus catenatus 1979" ; Times: 4
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "specificepithet:lacertina genus:siren year &lt;= 1955" ; Times: 1
+	Query: "Lithobates chiricahuensis 2003" ; Times: 4
+	Query: "craugastor rhodopis" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 3
+	Query: "genus:Eleutherodactylus specificepithet:cystignathoides" ; Times: 1
+	Query: "Lithobates chiricahuensis 1974" ; Times: 4
+	Query: "kinosternon integrum morelos" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Ambystoma californiense 2003" ; Times: 9
+	Query: "Ambystoma californiense 1983" ; Times: 9
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Livingston&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "60015" ; Times: 1
+	Query: "amphibians tlaxcala" ; Times: 5
+	Query: "Crotalus ravus" ; Times: 3
+	Query: "genus:Ambystoma stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 2
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Lake&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eumeces copei morelos" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 3
+	Query: "SCELOPORUS GRAMMICUS morelos" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "heloderma horridum mexico" ; Times: 6
+	Query: "bufo marinus morelos" ; Times: 1
+	Query: "aspidoscelis costatus morelos" ; Times: 1
+	Query: "Glyptemys insculpta stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti mappable:1" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma californiense 1976" ; Times: 9
+	Query: "Thamnophis scalaris mappable:1" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rana pustulosa morelos" ; Times: 1
+	Query: "Clonophis kirtlandii mappable:1" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Indian River&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "micrurus diastema" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "lampropeltis triangulum new kent" ; Times: 1
+	Query: "hyla tlaxcala" ; Times: 3
+	Query: "Pseudacris brachyphona" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "conopsis morelos" ; Times: 2
+	Query: "Thamnophis brachystoma mappable:1" ; Times: 1
+	Query: "nerodia harteri" ; Times: 2
+	Query: "Thamnophis fulvus mappable:1" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "Tantilla+rubra" ; Times: 2
+	Query: "genus:saiphos specificepithet:equalis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 3
+	Query: "Pseudoeurycea scandens" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 2
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Ischnocnema guentheri" ; Times: 22
+	Query: "Plethodon shermani" ; Times: 3
+	Query: "craugastor rhodopis mexico" ; Times: 1
+	Query: "Corytophanes hernandesii" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus county:&#34;Malheur&#34;" ; Times: 1
+	Query: "hyla arenicolor morelos" ; Times: 1
+	Query: "genus:rhineura specificepithet:floridana institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Clemmys insculpta stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "KNOBLOCHI" ; Times: 2
+	Query: "54056" ; Times: 1
+	Query: "pituophis lineaticollis mexico" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "Storeria storerioides mappable:1" ; Times: 1
+	Query: "Toxicocalamus" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "urosaurus morelos" ; Times: 2
+	Query: "Trioceros jacksonii" ; Times: 1
+	Query: "genus:calabaria specificepithet:reinhardtii institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Tangipahoa&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma californiense 2019" ; Times: 9
+	Query: "56084" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "Glyptemys insculpta mappable:1" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1996" ; Times: 3
+	Query: "drymarchon morelos" ; Times: 2
+	Query: "craugastor augusti mexico" ; Times: 1
+	Query: "Emydoidea blandingii mappable:1" ; Times: 1
+	Query: "phrynosoma asio mexico" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "Sauromalus Nevada" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Aspidoscelis sexlineatus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:reynoldsi genus:plestiodon institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 2
+	Query: "mabuya morelos" ; Times: 2
+	Query: "Thamnophis nigronuchalis mappable:1" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 4
+	Query: "Sistrurus catenatus 2007" ; Times: 4
+	Query: "Sistrurus catenatus 2000" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "Sistrurus catenatus 2003" ; Times: 4
+	Query: "Sistrurus catenatus 2008" ; Times: 4
+	Query: "Tropidoclonion lineatum mappable:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bienville&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 4
+	Query: "bufo occidentalis morelos" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "Crocodylus acutus 2013" ; Times: 4
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 3
+	Query: "Crocodylus acutus 2019" ; Times: 4
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Thamnophis melanogaster mappable:1" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "genus:Ophryacus" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "specificepithet:amboinensis genus:hydrosaurus" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Congo&#34;" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "rhinella horribilis" ; Times: 1
+	Query: "sauromalus klauberi" ; Times: 1
+	Query: "Thamnophis validus mappable:1" ; Times: 1
+	Query: "sceloporus bimaculosus" ; Times: 1
+	Query: "anolis morelos" ; Times: 2
+	Query: "stateprovince:&#34;connecticut&#34; (Clemmys Glyptemys insculpta)" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "specificepithet:pustulosus genus:Engystomops country:&#34;México&#34;" ; Times: 1
+	Query: "craugastor rugulosus mexico" ; Times: 2
+	Query: "genus:bipes specificepithet:biporus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Thamnophis eques mappable:1" ; Times: 1
+	Query: "specificepithet:reinwardtii genus:Rhacophorus" ; Times: 1
+	Query: "Bufo fowleri stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Crotalus transversus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "holcosus morelos" ; Times: 2
+	Query: "specificepithet:lacertina genus:siren year &lt;= 1940" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "eleutherodactylus pipilans" ; Times: 1
+	Query: "henke" ; Times: 2
+	Query: "specificepithet:insularis genus:Crotaphytus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 6
+	Query: "Lemos Espinal catenifer" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 4
+	Query: "eleutherodactylus pipilans Guerrero" ; Times: 1
+	Query: "eleutherodactylus morelos" ; Times: 4
+	Query: "WILLARDI" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "craugastor rugulosus" ; Times: 1
+	Query: "Adelophis foxi mappable:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "erythrolamprus epinephelus" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "genus:craugastor stateprovince:&#34;Veracruz&#34;" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:ater genus:sauromalus country:&#34;Mexico&#34;" ; Times: 4
+	Query: "Thamnophis rufipunctatus 1984" ; Times: 3
+	Query: "thamnophis morelos" ; Times: 3
+	Query: "genus:indotyphlops specificepithet:braminus" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 3
+	Query: "genus:Phyllobates specificepithet:lugubris" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "hyla eximia morelos" ; Times: 1
+	Query: "genus:chalcides specificepithet:chalcides institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2002" ; Times: 3
+	Query: "Thamnophis rufipunctatus 2000" ; Times: 3
+	Query: "Thamnophis rufipunctatus 2007" ; Times: 3
+	Query: "Thamnophis rufipunctatus 2006" ; Times: 3
+	Query: "19720" ; Times: 2
+	Query: "bmnh anura" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "genus:anaxyrus county:&#34;san juan county&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "SCELOPORUS ochoterenae morelos" ; Times: 1
+	Query: "Thamnophis rufipunctatus mappable:1" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Bienville&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:regilla county:&#34;butte&#34;" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "specificepithet:laticaudata genus:Laticauda" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "17921" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "Sistrurus catenatus 2001" ; Times: 4
+	Query: "genus:candoia specificepithet:carinata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "Lemos Espinal deppei" ; Times: 1
+	Query: "specificepithet:godmani genus:tlalocohyla" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Campeche&#34;" ; Times: 8
+	Query: "SCELOPORUS GADOVIAE morelos" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Doña Ana&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Viperidae genus:atropoides stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hyla plicata tlaxcala" ; Times: 1
+	Query: "recordnumber:0245" ; Times: 1
+	Query: "class:reptilia locality:tanga" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "Ambystoma californiense 2004" ; Times: 9
+	Query: "genus:chalcides specificepithet:chalcides institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Ambystoma californiense 2006" ; Times: 9
+	Query: "willardi mexico" ; Times: 4
+	Query: "eurycea griseogaster" ; Times: 2
+	Query: "Gopherus agassizii 2013" ; Times: 7
+	Query: "plestiodon morelos" ; Times: 1
+	Query: "micrurus morelos" ; Times: 3
+	Query: "genus:Lichanura stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gopherus agassizii 2019" ; Times: 14
+	Query: "Varanus yuwonoi" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis hasmedia:1" ; Times: 1
+	Query: "aspidoscelis deppei morelos" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "UCM 18427" ; Times: 2
+	Query: "genus:morelia specificepithet:viridis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 2
+	Query: "56937" ; Times: 2
+	Query: "specificepithet:platurus genus:Hydrophis country:&#34;México&#34;" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "Virginia valeriae mappable:1" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 4
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Sistrurus catenatus 2011" ; Times: 4
+	Query: "Sistrurus catenatus 2010" ; Times: 4
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Sistrurus catenatus 2019" ; Times: 4
+	Query: "genus:Clonophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Regina rigida mappable:1" ; Times: 1
+	Query: "genus:Ischnocnema specificepithet:guentheri" ; Times: 1
+	Query: "pseudoleptodeira latifasciata" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "Sistrurus catenatus 1988" ; Times: 4
+	Query: "pseudoeurycea altamontana morelos" ; Times: 1
+	Query: "porthidium" ; Times: 1
+	Query: "Sistrurus catenatus 1986" ; Times: 4
+	Query: "Sistrurus catenatus 1987" ; Times: 4
+	Query: "Lampropeltis pyromelana" ; Times: 47
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "Gopherus agassizii 2015" ; Times: 7
+	Query: "Rana draytonii 2019" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Doña Ana&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 1
+	Query: "genus:blanus specificepithet:cinereus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "genus:Claudius stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "pseudoeurycea cephalica morelos" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 2
+	Query: "61132" ; Times: 1
+	Query: "Aquiloeurycea scandens" ; Times: 1
+	Query: "Andrias vntype:specimen" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:baxteri" ; Times: 2
+	Query: "Sistrurus miliarius streckeri" ; Times: 2
+	Query: "Lithobates areolatus" ; Times: 1
+	Query: "Gopherus agassizii 1999" ; Times: 7
+	Query: "genus:acrochordus specificepithet:granulatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "pachymedusa morelos" ; Times: 2
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "genus:lialis specificepithet:burtonis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "thamnophis dorsalis" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:blanus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "nerodia harteri colorado" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "specificepithet:nelsoni genus:terrapene order:testudines" ; Times: 1
+	Query: "vntype:specimen locality:Roque country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "lampropeltis pyromelana" ; Times: 81
+	Query: "Boa imperator" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Jackson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Jackson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1998" ; Times: 3
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 5
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1997" ; Times: 3
+	Query: "genus:anguis specificepithet:fragilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "eurycea tynerensis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hypopachus morelos" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 130 (out of 1367 download events in this period)
+Total number of records downloaded: 4007
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 1
+	Country: United States ; Times: 108
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: China ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-14 ; Times: 9
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-08 ; Times: 24
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 15
+	Date: 2019-11-22 ; Times: 8
+	Date: 2019-11-23 ; Times: 4
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 12
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ventralis genus:ophisaurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:laticaudata genus:Laticauda" ; Times: 1
+	Query: "genus:anniella specificepithet:pulchra institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "genus:farancia specificepithet:abacura institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:candoia specificepithet:carinata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "varanus yuwonoi" ; Times: 1
+	Query: "genus:calabaria specificepithet:reinhardtii institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:siculus genus:podarcis continent:europe" ; Times: 1
+	Query: "Lemos Espinal catenifer" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Physignathus lesueurii" ; Times: 1
+	Query: "genus:saiphos specificepithet:equalis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:brachystoma genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 5
+	Query: "specificepithet:nebulifer genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:chalcides specificepithet:chalcides institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Aspidoscelis sexlineatus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:Lichanura stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Varanus yuwonoi" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "specificepithet:pulchra genus:anniella institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis country:&#34;México&#34;" ; Times: 2
+	Query: "genus:morelia specificepithet:viridis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:reynoldsi genus:plestiodon institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Epictia phenops" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Ophiophagus hannah vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhinella horribilis" ; Times: 1
+	Query: "specificepithet:humilis genus:Rena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Lemos Espinal deppei" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "specificepithet:attenuatus genus:ophisaurus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:xenopeltis specificepithet:unicolor institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:bipes specificepithet:biporus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "genus:blanus specificepithet:cinereus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:carbonarius class:reptilia" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:merriami genus:Sceloporus" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla" ; Times: 2
+	Query: "genus:acrochordus specificepithet:granulatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 1
+	Query: "genus:Lygodactylus" ; Times: 1
+	Query: "Agama agama" ; Times: 1
+	Query: "genus:lialis specificepithet:burtonis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:guttilatus genus:Eleutherodactylus" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "genus:blanus specificepithet:cinereus institutioncode:fmnh OR mpm OR usnm OR ansp OR asnhc OR aum OR bummc OR mmnh OR blb OR bsns OR csuc OR csulb OR crcm OR ccber OR chas OR cmnh OR cumv" ; Times: 1
+	Query: "genus:agkistrodon specificepithet:contortrix institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UCM" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:tenuis genus:Contia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:blanus institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Gerrhosaurus flavigularis" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:saiphos specificepithet:equalis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:chalcides specificepithet:chalcides institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:ventralis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:anguis specificepithet:fragilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:floridana genus:rhineura institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "genus:rhineura specificepithet:floridana institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+
+
+End of report.
