@@ -1,0 +1,675 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 556
+Number of records retrieved in searches: 2879
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Ireland ; Times: 8
+	Country: Bolivia ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Australia ; Times: 32
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: United States ; Times: 323
+	Country: Sweden ; Times: 75
+	Country: Vietnam ; Times: 1
+	Country: Mexico ; Times: 48
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 12
+	Date: 2020-05-24 ; Times: 40
+	Date: 2020-05-27 ; Times: 27
+	Date: 2020-05-26 ; Times: 33
+	Date: 2020-05-21 ; Times: 12
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 24
+	Date: 2020-05-22 ; Times: 27
+	Date: 2020-05-29 ; Times: 7
+	Date: 2020-05-28 ; Times: 10
+	Date: 2020-05-18 ; Times: 22
+	Date: 2020-05-19 ; Times: 10
+	Date: 2020-05-10 ; Times: 29
+	Date: 2020-05-11 ; Times: 30
+	Date: 2020-05-12 ; Times: 16
+	Date: 2020-05-13 ; Times: 19
+	Date: 2020-05-14 ; Times: 5
+	Date: 2020-05-15 ; Times: 17
+	Date: 2020-05-16 ; Times: 15
+	Date: 2020-05-17 ; Times: 24
+	Date: 2020-05-30 ; Times: 13
+	Date: 2020-05-31 ; Times: 7
+	Date: 2020-05-09 ; Times: 18
+	Date: 2020-05-08 ; Times: 27
+	Date: 2020-05-07 ; Times: 36
+	Date: 2020-05-06 ; Times: 20
+	Date: 2020-05-05 ; Times: 7
+	Date: 2020-05-04 ; Times: 8
+	Date: 2020-05-03 ; Times: 15
+	Date: 2020-05-02 ; Times: 8
+	Date: 2020-05-01 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "36580" ; Times: 1
+	Query: "Crotalus molossus oaxaca" ; Times: 2
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;El Oro&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 4
+	Query: "specificepithet:graciosus genus:sceloporus stateprovince:&#34;california&#34; year &gt;= 1959 year &lt;= 1960" ; Times: 1
+	Query: "Ambystoma gracile stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "crotalus powell" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Union&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 2
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Rhyacotriton variegatus county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "class:Reptilia county:&#34;fannin&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Wakulla&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heterodon Mexico" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Enulius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "Diaglena spatulata" ; Times: 1
+	Query: "genus:Hyla specificepithet:plicata" ; Times: 1
+	Query: "Scinax fuscovarius" ; Times: 1
+	Query: "spea bombifrons oklahoma" ; Times: 1
+	Query: "Plestiodon fasciatus jasper county missouri" ; Times: 1
+	Query: "specificepithet:diplotropis genus:Leptophis stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "genus:Thamnophis class:reptilia county:&#34;travis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Levy&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sceloporus locality:death county:&#34;Inyo&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "alligator mississippiensis arkansas" ; Times: 1
+	Query: "Gerrhosaurus multilineatus" ; Times: 1
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "anolis barkeri" ; Times: 8
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "specificepithet:fasciata genus:nerodia county:&#34;landry&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:Scripta genus:Trachemys county:&#34;Lowndes&#34;" ; Times: 1
+	Query: "Aneides ferreus stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Sceloporus preparations:skeleton" ; Times: 3
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1880 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Vernalis genus:Opheodrys stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "genus:Glandirana family:Ranidae" ; Times: 1
+	Query: "Xenelaphis ellipsifer" ; Times: 1
+	Query: "country:Ecuador scientificname:Epipedobates tricolor " ; Times: 3
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "TCWC" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "class:reptilia locality:Rio Colorado" ; Times: 1
+	Query: "Ambystoma mexicanum 1798" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anolis cuprinus" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "Anolis subocularis" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "49138" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "exerodonta melanomma" ; Times: 1
+	Query: "Lissotriton italicus" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "Masticophis stateprovince:&#34;Oregon&#34;" ; Times: 4
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "560401" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Washington&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; Thamnophis marcianus" ; Times: 3
+	Query: "28960" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Blaine&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Crotalus atrox oaxaca" ; Times: 1
+	Query: "tantilla Jefferson County" ; Times: 1
+	Query: "Anolis quercorum" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;tabasco&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:emoryi stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "chondropython viridis" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Euprepiophis mandarinus" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "quadrangulare" ; Times: 2
+	Query: "Crotalus county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 1
+	Query: "Coluber constrictor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "Tantilla briggsi" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Yuma&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fulvus genus:Thamnophis" ; Times: 2
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "montanucci foster" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Pituophis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Pituophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "Aneides ferreus county:&#34;Tillamook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Sphenodon" ; Times: 5
+	Query: "specificepithet:atrox genus:crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "atheris" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "Ctenosaura nolascensis" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Woods&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus subpictus" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Sarcohyla cyanomma" ; Times: 3
+	Query: "genus:Ecnomiohyla specificepithet:miotympanum" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 3
+	Query: "Plestiodon fasciatus" ; Times: 2
+	Query: "chelydra serpentina louisiana" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "mesaspis gadovii" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis county:&#34;crockett&#34;" ; Times: 2
+	Query: "sceloporus edwardtaylori" ; Times: 1
+	Query: "Crotalus county:&#34;Deschutes&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:piscivorus piscivorus genus:Agkistrodon stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Enulius" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Washington&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elaphe frenata" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cerastes county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Union&#34; stateprovince:&#34;Illinois&#34; year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Enulius country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Rana specificepithet:boylii year&lt;=1970" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 2
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Elaphe frenata" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gonyosoma frenatum" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Johnston&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "pantherophis obsoletus" ; Times: 1
+	Query: "sceloporus cupreus" ; Times: 1
+	Query: "bothrochilus albertisi" ; Times: 2
+	Query: "37765" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis county:&#34;Crockett&#34;" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Yell&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "sceloporus pictus" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Lichanura trivirgata roseofusca" ; Times: 1
+	Query: "Ameerega" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1970" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "kennerlyi texas" ; Times: 3
+	Query: "specificepithet:flavitorques genus:Enulius country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Charina bottae county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "specificepithet:vestigium genus:Crotaphytus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "55084" ; Times: 1
+	Query: "Tantilla slavensi" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:texana genus:pseudemys" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Payne&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "ruthveni" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Thamnophis godmani" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "37232" ; Times: 2
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Simalia amethistina" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "genus:Sonora county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "Anolis nebuloides" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; year &gt;= 1939 year &lt;= 1939 institutioncode:UCM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:heckscheri genus:Rana stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Anolis laeviventris" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:nettingi" ; Times: 2
+	Query: "stilosoma" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Wyoming&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 1
+	Query: "Crotalus oreganus lutosus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Bothrops class:Reptilia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Aspidoscelis martyris" ; Times: 1
+	Query: "Notophthalmus viridescens madison" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "Tantilla cucullata" ; Times: 4
+	Query: "12549" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "Litoria contrastens" ; Times: 2
+	Query: "64705" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 4
+	Query: "Anolis rodriguezii" ; Times: 1
+	Query: "sceloporus tanneri" ; Times: 1
+	Query: "specificepithet:flavitorques genus:Enulius" ; Times: 3
+	Query: "Leiopython albertisi" ; Times: 2
+	Query: "eutropis carinata" ; Times: 2
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "copperheads" ; Times: 2
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "genus:Taricha specificepithet:sierrae" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Anolis pygmaeus" ; Times: 1
+	Query: "sceloporus aureolus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "erythrolamprus" ; Times: 1
+	Query: "sceloporus internasalis" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "genus:Dermophis stateprovince:&#34;Chiapas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Uta county:&#34;Mono&#34;" ; Times: 1
+	Query: "specificepithet:flavitorques genus:Enulius institutioncode:UCM" ; Times: 1
+	Query: "genus:Enulius stateprovince:&#34;chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "1927-04-26 taylor" ; Times: 1
+	Query: "bolitoglossa flaviventris" ; Times: 1
+	Query: "Porthidium+yucatanicum" ; Times: 9
+	Query: "sceloporus melanorhinus" ; Times: 1
+	Query: "specificepithet:rosaceum genus:ambystoma" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Rogers&#34; stateprovince:&#34;Oklahoma&#34; year &gt;= 1959 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Rhadinella schistosa" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gaigeae" ; Times: 1
+	Query: "genus:Enulius stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 3
+	Query: "Ambystoma gracile stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber flagellum flagellum" ; Times: 1
+	Query: "specificepithet:Cyanomma" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Sevier&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus stateprovince:&#34;Mexico&#34;" ; Times: 1
+	Query: "abronia" ; Times: 4
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "Hypsiglena ochrorhyncha nuchalata" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 5
+	Query: "recordedby:Hess" ; Times: 1
+	Query: "Plestiodon laticeps" ; Times: 1
+	Query: "genus:Terrapene stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "246655" ; Times: 1
+	Query: "anolis carolinensis mississippi" ; Times: 1
+	Query: "Masticophis slevini" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "Crocodylus intermedius" ; Times: 2
+	Query: "agkistrodon Texas presidio" ; Times: 2
+	Query: "heterodon mexico" ; Times: 1
+	Query: "Anolis milleri" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "cnemidophorus murinus" ; Times: 1
+	Query: "taxispilota" ; Times: 2
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 6
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus county:&#34;humboldt&#34;" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 1
+	Query: "barisia planifrons" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "sistrurus miliarius louisiana" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;tabasco&#34;" ; Times: 1
+	Query: "mabuya carinata" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Rogers&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:intermontana county:&#34;Inyo&#34;" ; Times: 5
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1980" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Gastrophryne elegans" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cognatus genus:Anaxyrus stateprovince:&#34;south dakota&#34; year &gt;= 1945 year &lt;= 2020" ; Times: 1
+	Query: "Graptemys ouachitensis" ; Times: 2
+	Query: "abronia oaxacae" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1970" ; Times: 1
+	Query: "alligatoridae" ; Times: 2
+	Query: "genus:Dipsosaurus county:&#34;Inyo&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Yell&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Manolepis" ; Times: 1
+	Query: "order:Anura family:Hylidae scientificname:Smilisca Smilisca phaeota " ; Times: 1
+	Query: "agkistrodon piscivorus mississippi" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Deschutes&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "mesaspis viridiflava" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "sceloporus teapensis" ; Times: 1
+	Query: "Tantilla oolitica" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 9
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "plestiodon anthracinus anthracinus" ; Times: 2
+	Query: "Liasis papuanus" ; Times: 1
+	Query: "genus:Rana specificepithet:grylio" ; Times: 1
+	Query: "ambystoma mexicanum 1798" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Le Flore&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scinax specificepithet:fuscovarius" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 11
+	Query: "Thamnophis elegans vagrans stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Batrachoseps attenuatus stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "heterodon Texas presidio" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "triturus cristatus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 2
+	Query: "Brazos County A contortrix" ; Times: 2
+	Query: "specificepithet:uniformis genus:Sceloporus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Phyllodactylus imperial county" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 172 (out of 1106 download events in this period)
+Total number of records downloaded: 9391
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 112
+	Country: Australia ; Times: 24
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 9
+	Country: Unknown ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 9
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-26 ; Times: 9
+	Date: 2020-05-21 ; Times: 6
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 13
+	Date: 2020-05-22 ; Times: 8
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 12
+	Date: 2020-05-19 ; Times: 13
+	Date: 2020-05-11 ; Times: 5
+	Date: 2020-05-12 ; Times: 5
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 8
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 11
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 14
+	Date: 2020-05-05 ; Times: 11
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 5
+	Date: 2020-05-02 ; Times: 4
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus internasalis" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "order:anura continent:africa" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "sceloporus melanorhinus" ; Times: 1
+	Query: "specificepithet:rosaceum genus:ambystoma" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "barisia planifrons" ; Times: 1
+	Query: "Anolis subocularis" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Anolis quercorum" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "sceloporus pictus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Taricha granulosa male" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;tabasco&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "continent:Europe" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Tantilla slavensi" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:texana genus:pseudemys" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "Tantilla briggsi" ; Times: 1
+	Query: "class:Amphibia country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "gaigeae family:Emydidae" ; Times: 1
+	Query: "Masticophis slevini" ; Times: 1
+	Query: "Thamnophis godmani" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 2
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anolis milleri" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Gerrhosaurus multilineatus" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Pituophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;kern&#34;" ; Times: 1
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "anolis barkeri" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Rhadinella schistosa" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "DESMOGNATHUS CONANTI" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Ctenosaura nolascensis" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;tabasco&#34;" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Geophis nasalis" ; Times: 1
+	Query: "vntype:specimen order:Squamata stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pachytriton" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "sceloporus subpictus" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 2
+	Query: "Anolis laeviventris" ; Times: 1
+	Query: "mesaspis gadovii" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Anolis nebuloides" ; Times: 1
+	Query: "sceloporus edwardtaylori" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 1
+	Query: "mesaspis viridiflava" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Deinagkistrodon acutus" ; Times: 1
+	Query: "sceloporus teapensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Tantilla oolitica" ; Times: 1
+	Query: "Aspidoscelis martyris" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Vipera aspis" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Uta stansburiana country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Liasis papuanus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "zamenis longissimus" ; Times: 1
+	Query: "Anolis cuprinus" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "Anolis rodriguezii" ; Times: 1
+	Query: "sceloporus tanneri" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Brazos County A contortrix" ; Times: 2
+	Query: "Dicamptodon" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "abronia oaxacae" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Lissotriton italicus" ; Times: 1
+	Query: "Anolis pygmaeus" ; Times: 1
+	Query: "sceloporus cupreus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "sceloporus aureolus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "Lissotriton" ; Times: 1
+
+
+End of report.
