@@ -1,0 +1,213 @@
+Report for Institution Code UCM, Resource ucm_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 1312
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 109
+	Country: Australia ; Times: 7
+	Country: Peru ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 39
+	Country: Sweden ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Switzerland ; Times: 6
+	Country: Argentina ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 3
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-08 ; Times: 11
+	Date: 2020-06-09 ; Times: 20
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 6
+	Date: 2020-06-04 ; Times: 18
+	Date: 2020-06-05 ; Times: 20
+	Date: 2020-06-02 ; Times: 17
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-01 ; Times: 27
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-10 ; Times: 24
+	Date: 2020-06-11 ; Times: 16
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "aneides stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 2
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "Coelognathus subradiatus" ; Times: 1
+	Query: "Aspidoscelis neomexicana" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "genus:Triturus specificepithet:carnifex" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "ameivula" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 6
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "TCWC" ; Times: 3
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Microlophus barringtonensis" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Exerodonta" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "Dermophis oaxacae" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 3
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "incilius valliceps" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "specificepithet:rufipunctatus genus:Thamnophis year &gt;= 1990" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "hassex:1 Epictia" ; Times: 2
+	Query: "Chironius" ; Times: 1
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 2
+	Query: "catalognumber:18902 institutioncode:UCM" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Dendropsophus meridianus" ; Times: 1
+	Query: "Opheodrys Utah" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Aspidoscelis opatae" ; Times: 1
+	Query: "Sphenomorphus taylori" ; Times: 1
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "ptyas mucosus india" ; Times: 2
+	Query: "Thamnophis eques megalops" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis country:&#34;United States&#34; year &gt;= 1990" ; Times: 1
+	Query: "trimorphodon texas" ; Times: 1
+	Query: "Oregon salamanders" ; Times: 2
+	Query: "lampropeltis calligaster maryland" ; Times: 1
+	Query: "Charadrahyla chaneque" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Duellmanohyla ignicolor" ; Times: 9
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "elgaria kingii" ; Times: 2
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "tantilla moesta" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "Carphophis vermis" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Clonophis Kirtlandii" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "echis carinatus india" ; Times: 2
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "schmidtorum" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "tantilla cuniculator" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus (skeleton)" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "Tantilla cucullata" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Epictia" ; Times: 3
+	Query: "genus:Storeria county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "oligodon arnensis india" ; Times: 2
+	Query: "specificepithet:fuliginosus genus:Masticophis" ; Times: 1
+	Query: "Plestiodon marginatus" ; Times: 1
+	Query: "Aspidoscelis franciscensis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 12
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "country:&#34;Mexico&#34; Opheodrys" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Wyoming&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Duellmanohyla schmidtorum" ; Times: 1
+	Query: "Ambystoma mavortium nebulosum" ; Times: 2
+	Query: "Sceloporus salvini" ; Times: 15
+	Query: "Sonora michoacanensis" ; Times: 1
+	Query: "necturus maculosus" ; Times: 4
+	Query: "Varanus melinus" ; Times: 2
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "genus:Storeria county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Crotalus lorenzoensis" ; Times: 1
+	Query: "Ptychohyla ignicolor" ; Times: 1
+	Query: "toxicocalamus loriae" ; Times: 1
+	Query: "country:Ecuador scientificname:Pristimantis w-nigrum " ; Times: 2
+	Query: "genus:Dendropsophus specificepithet:leucophyllatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 474 download events in this period)
+Total number of records downloaded: 667
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 8
+	Date: 2020-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "Oregon salamanders" ; Times: 1
+	Query: "specificepithet:w-nigrum genus:Pristimantis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Pristimantis w-nigrum" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Plestiodon marginatus" ; Times: 1
+	Query: "Aspidoscelis franciscensis" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "axolotl" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "Sphenomorphus taylori" ; Times: 2
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Crotalus lorenzoensis" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
